@@ -473,6 +473,8 @@ Bug #523, Bug #521, Bug #515, Support #512, Bug #507, Support #503
 
 - Version 7.0.28 released on 12/03/2020 (stabel, staging) Bug #530, Feature #313
 
+- Version 7.1.1 released on 15/04/2020 (staging) 7.1 preview version
+
 # Build configurations
 
 ## Configure make with: 
